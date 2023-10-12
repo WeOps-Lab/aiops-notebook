@@ -4,4 +4,4 @@
 # 运行示例
 # Benchmark
 
-MR TEST Demo
+MR TEST Demo V1
