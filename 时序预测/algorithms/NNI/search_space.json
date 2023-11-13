@@ -1,0 +1,6 @@
+{
+    "alpha": {"_type":"uniform", "_value":[0.0, 1.0]},
+    "beta": {"_type":"uniform", "_value":[0.0, 1.0]},
+    "gamma": {"_type":"uniform", "_value":[0.0, 1.0]}
+  }
+  
