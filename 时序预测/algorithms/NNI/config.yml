@@ -1,0 +1,17 @@
+authorName: default
+experimentName: HoltWintersParameterTuning
+trialConcurrency: 1
+maxExecDuration: 1h
+maxTrialNum: 100
+trainingServicePlatform: local
+searchSpacePath: search_space.json
+useAnnotation: false
+
+tuner:
+  builtinTunerName: TPE
+  classArgs:
+    optimize_mode: minimize
+trial:
+  command: python train.py
+  codeDir: .
+  gpuNum: 0

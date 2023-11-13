@@ -1,1 +1,4 @@
-jupyter==1.0.0
+pyod==1.1.0
+SUOD==0.0.9
+xgboost==2.0.0
+tensorflow==2.14.0
