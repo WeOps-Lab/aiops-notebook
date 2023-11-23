@@ -13,5 +13,5 @@ tuner:
     optimize_mode: minimize
 trial:
   command: python train.py
-  codeDir: .
+  codeDir: 
   gpuNum: 0

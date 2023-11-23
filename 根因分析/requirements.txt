@@ -1,0 +1,8 @@
+causality==0.0.10
+networkx==2.6.3
+IPython==7.34.0
+matplotlib==3.5.3
+pandas==1.3.5
+community==1.0.0b1
+python-louvain==0.16
+jieba==0.42.1
